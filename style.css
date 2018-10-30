@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(to top, #ffff66 59%, #ffffff 100%);
+    padding: 10px;
+}
+
+.brand-logo {
+    border: 1px, solid, yellow;
+    padding: 20px;
+    background-color: blue;
+    width: 140px;
+    height: 70px;
+    border-radius: 50%;
+    text-align: center;
+    color: white;
+}
